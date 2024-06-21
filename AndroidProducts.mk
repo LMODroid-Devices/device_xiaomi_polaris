@@ -15,8 +15,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_polaris.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_polaris-user \
-    lmodroid_polaris-userdebug \
-    lmodroid_polaris-eng
